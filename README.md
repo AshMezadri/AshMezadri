@@ -1,7 +1,11 @@
 # 💫 About Me:
+
   Ash
+  
   Ele / dele
+  
   Não sei o que estou fazendo, mas okay
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thepunkenby) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thepunkenby) 
