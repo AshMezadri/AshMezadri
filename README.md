@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Ash, e meus pronomes são ele/dele. Estudo no IFSC atualmente, cursando o Técnico Integrado em Informática :)</p>
+<p align="left">Meu nome é Ash, e meus pronomes são ele/dele. Essa conta foi criada durante meu Técnico Integrado no IFSC Gaspar :)</p>
 
 ###
 
